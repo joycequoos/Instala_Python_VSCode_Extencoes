@@ -108,12 +108,12 @@ Acessar a aba de extensões do VS Code:
 1. Após instalar as extensões, abrir uma pasta para a criação dos projetos.
 
 <a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/17_OpenFolder.GIF">
-<img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/17_OpenFolder.GIF" width="700" alt="Abrir pasta no VS Code"></a>
+<img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/17_OpenFolder.GIF" width="400" alt="Abrir pasta no VS Code"></a>
 
 2. No exemplo, a pasta é criada em `C:\Python-Projetos`.
 
 <a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/18_Python_Projetos.GIF">
-<img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/18_Python_Projetos.GIF" width="700" alt="Criando a pasta Python-Projetos"></a>
+<img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/18_Python_Projetos.GIF" width="400" alt="Criando a pasta Python-Projetos"></a>
 
 3. Após criar a pasta, clicar em "Selecionar".
 
