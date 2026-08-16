@@ -20,37 +20,26 @@ Passo a passo de instalação do ambiente de desenvolvimento Python: download e 
 
 1. Acessar o site **python.org** para baixar o Python.
 
-<p align="center">
-  <a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/01_Instalacao_Python.GIF">
-    <img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/01_Instalacao_Python.GIF" width="700" alt="Acessar site do Python">
-  </a>
-</p>
+<a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/01_Instalacao_Python.GIF"><img style="margin-top:12px;" src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/01_Instalacao_Python.GIF" width="400" alt="Acessar site do Python"></a>
 
 2. Realizar o download do Python.
 
-<p align="center">
-  <a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/02_Download_Python.GIF">
-    <img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/02_Download_Python.GIF" width="700" alt="Download do Python">
-  </a>
-</p>
+<a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/02_Download_Python.GIF">
+<img style="margin-top:12px;" src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/02_Download_Python.GIF" width="400" alt="Download do Python"></a>
 
 3. Baixar o Visual Studio Code.
 
-<p align="center">
-  <a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/03_Baixar_Visual_StudioCode.GIF">
-    <img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/03_Baixar_Visual_StudioCode.GIF" width="700" alt="Download do VS Code">
-  </a>
-</p>
+<a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/03_Baixar_Visual_StudioCode.GIF">
+<img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/03_Baixar_Visual_StudioCode.GIF" width="400" alt="Download do VS Code"></a>
 
 ## Instalação do Python
 
 1. Clique duplo no instalador baixado para iniciar a instalação.
 
-<p align="center">
-  <a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/04_Instalando_o_Python.GIF">
-    <img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/04_Instalando_o_Python.GIF" width="700" alt="Instalando o Python">
-  </a>
-</p>
+
+<a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/ing/04_Instalando_o_Python.GIF">
+<img src="https://github.com/JosiTubaroski/Programacao_com_Python/raw/main/ing/04_Instalando_o_Python.GIF" width="400" alt="Instalando o Python"></a>
+
 
 2. Marcar as opções **"Add python.exe to PATH"** e **"Use admin privilege when installing py.exe"**.
 
